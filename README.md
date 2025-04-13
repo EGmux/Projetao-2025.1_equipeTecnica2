@@ -41,7 +41,6 @@ rm requirements.txt ; pip freeze > requirements.txt
 ./module               
    ├── __init__.py      # identifica diretório como pacote python
    ├── main.py          # ponto de entrada do módulo
-   ├── dependencies.py  # depedências do projeto importadas aqui
    ├── test_data  # artefatos para testes
                 ./output.csv            # artefato para testes
    ├── components  
