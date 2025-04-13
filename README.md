@@ -30,9 +30,11 @@ rm requirements.txt ; pip freeze > requirements.txt
 
 # Para testar o módulo
 
-## Testes unitários
+## Executar os testes unitários
 
-👷‍ **EM CONSTRUÇÃO**
+```bash
+pytest
+```
 
 # Estrutura do projeto
 
