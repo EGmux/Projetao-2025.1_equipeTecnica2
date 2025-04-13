@@ -44,7 +44,7 @@ rm requirements.txt ; pip freeze > requirements.txt
    ├── dependencies.py  # depedências do projeto importadas aqui
    ├── test_data  # artefatos para testes
                 ./output.csv            # artefato para testes
-   ├── components  # código comum para todos componentes, considerado um componente
+   ├── components  
    │             ├── __init__.py  
    │             ├── action.py
    │             ├── movement.py
