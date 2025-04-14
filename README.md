@@ -1,5 +1,8 @@
 # equipe-api
-Membros da equipe responsável por implementar a API do SkateCoach
+Membros da equipe responsáveis por implementar a API do SkateCoach
+
+Enzo Gurgel Bissoli (egb2)
+Tarcícios Rickson (trcc)
 
 # Para preparar ambiente de desenvolvimento:
 
